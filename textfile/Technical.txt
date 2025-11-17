@@ -1,0 +1,50 @@
+Describe a data quality issue you experienced within a large dataset. How did you approach troubleshooting the issue?
+When should we retrain a model?
+What problems do data analysts usually encounter when performing analysis?
+What is the KNN imputation method?
+What are important steps in data validation process?
+What are criteria for a good data model?
+What is the difference between data mining and data profiling?
+Explain the difference between a process and a thread.
+How does garbage collection work in Java/Python?
+What is a memory leak and how do you prevent it?
+Describe the difference between synchronous and asynchronous programming.
+What is the time complexity of common sorting algorithms?
+How would you handle data versioning in a data pipeline?
+What is the difference between batch processing and stream processing?
+Describe how you would normalize a relational database.
+What is the difference between a class and an object?
+How does a hash table work?
+What’s the difference between machine learning and traditional programming?
+Explain overfitting and underfitting in machine learning models.
+What is a confusion matrix and how is it used?
+How do you handle missing data in a dataset?
+What are some common feature engineering techniques?
+What is the difference between descriptive and inferential statistics?
+Explain the Central Limit Theorem and why it’s important.
+What is p-value and how is it interpreted?
+What are Type I and Type II errors?
+When would you use a t-test vs. a z-test?
+What is the difference between correlation and causation?
+How do you handle outliers in a dataset?
+What assumptions are required for linear regression?
+How do you interpret the coefficients in a linear regression model?
+What is multicollinearity and how do you detect it?
+Explain the concept of bias-variance tradeoff.
+What is regularization in machine learning? Explain L1 vs L2.
+What’s the difference between classification and regression problems?
+Explain how k-means clustering works.
+What metrics would you use to evaluate a classification model?
+What is precision, recall, and F1 score?
+What is ROC-AUC and what does it tell you?
+Explain the concept of cross-validation.
+What is the difference between bagging and boosting?
+How does random forest work?
+What is a decision tree and how does it split nodes?
+What is feature selection and why is it important?
+Explain Principal Component Analysis (PCA).
+How do you deal with imbalanced datasets?
+What is bootstrapping in statistics?
+How do you select the number of clusters in k-means?
+What is A/B testing and how do you design one?
+What is the difference between parametric and non-parametric methods?

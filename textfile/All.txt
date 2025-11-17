@@ -1,0 +1,103 @@
+Tell me about yourself
+Share your academic/work journey
+Mention specific experiences relevant to the position
+How would you describe yourself in 3 words?
+What animal would you be and why?
+What's your biggest strength?
+What's your biggest weakness?
+Tell me about a time you failed. How do you handle failure?
+Do you prefer working independently or in a team?
+How do you handle tight deadlines and multiple priorities?
+Do you work well under pressure?
+How do you handle ambiguity or uncertain situations?
+What's your leadership style?
+Describe a time when you had to lead a team through a major change/transition.
+Can you provide an example of a time where you had to mediate a conflict between team members?
+Describe a time when you had to work with a difficult colleague or supervisor.
+Why are you leaving your current position?
+Where do you see yourself in 5 years from now?
+What if you realize after some time that this job is not a good fit for you?
+Why do you want this position?
+Why do you want to work at our company?
+Why should I hire you?
+What if we don't offer you this position?
+Describe a time when you faced an ethical dilemma at work.
+Explain what would be your reaction if a project you had been working on suddenly changed or the deadline changed.
+Can you discuss a time when you had to make a decision with incomplete information?
+Tell me about a time when you had to step outside of your comfort zone.
+Why did you apply to our company?
+Tell me about a time when you exceeded expectations during a project.
+Describe a time when you had to learn something quickly.
+Tell me about a situation where you had to make a difficult decision.
+Describe a time when you had to manage competing deadlines.
+Have you ever disagreed with a supervisor's decision? How did you handle it?
+Tell me about a time you took initiative on a project.
+Describe a time when you had to give someone difficult feedback.
+Can you tell me about a time when your team failed to meet a goal?
+Tell me about a situation where you had to persuade others to adopt your idea.
+Have you ever handled a challenging customer or client issue?
+Describe a time when you had to adjust your working style to accommodate a team member.
+Have you ever had to resolve a miscommunication? What was the outcome?
+Tell me about a time when you had to make a decision without all the information you needed.
+Give me an example of a time when you exceeded expectations.
+Describe a time you handled a high-stress situation at work.
+Tell me about a time when you worked on a team project and things didn’t go as planned.
+Have you ever had to make a personal sacrifice to meet a professional goal?
+Tell me about a time when you improved a process or system.
+Describe a time when you had to stand up for what you believed was right.
+Tell me about a time when you worked with a cross-functional team.
+Describe a time you had to manage a conflict of interest.
+Have you ever gone above and beyond your responsibilities? What was the result?
+Tell me about a situation when you had to multitask under pressure.
+Describe a time when you received constructive criticism and how you handled it.
+Tell me about a time when you had to motivate a discouraged teammate.
+Describe a data quality issue you experienced within a large dataset. How did you approach troubleshooting the issue?
+When should we retrain a model?
+What problems do data analysts usually encounter when performing analysis?
+What is the KNN imputation method?
+What are important steps in data validation process?
+What are criteria for a good data model?
+What is the difference between data mining and data profiling?
+Explain the difference between a process and a thread.
+How does garbage collection work in Java/Python?
+What is a memory leak and how do you prevent it?
+Describe the difference between synchronous and asynchronous programming.
+What is the time complexity of common sorting algorithms?
+How would you handle data versioning in a data pipeline?
+What is the difference between batch processing and stream processing?
+Describe how you would normalize a relational database.
+What is the difference between a class and an object?
+How does a hash table work?
+What’s the difference between machine learning and traditional programming?
+Explain overfitting and underfitting in machine learning models.
+What is a confusion matrix and how is it used?
+How do you handle missing data in a dataset?
+What are some common feature engineering techniques?
+What is the difference between descriptive and inferential statistics?
+Explain the Central Limit Theorem and why it’s important.
+What is p-value and how is it interpreted?
+What are Type I and Type II errors?
+When would you use a t-test vs. a z-test?
+What is the difference between correlation and causation?
+How do you handle outliers in a dataset?
+What assumptions are required for linear regression?
+How do you interpret the coefficients in a linear regression model?
+What is multicollinearity and how do you detect it?
+Explain the concept of bias-variance tradeoff.
+What is regularization in machine learning? Explain L1 vs L2.
+What’s the difference between classification and regression problems?
+Explain how k-means clustering works.
+What metrics would you use to evaluate a classification model?
+What is precision, recall, and F1 score?
+What is ROC-AUC and what does it tell you?
+Explain the concept of cross-validation.
+What is the difference between bagging and boosting?
+How does random forest work?
+What is a decision tree and how does it split nodes?
+What is feature selection and why is it important?
+Explain Principal Component Analysis (PCA).
+How do you deal with imbalanced datasets?
+What is bootstrapping in statistics?
+How do you select the number of clusters in k-means?
+What is A/B testing and how do you design one?
+What is the difference between parametric and non-parametric methods?
